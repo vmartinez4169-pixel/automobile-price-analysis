@@ -80,6 +80,7 @@ target/
 
 # Raw data files generated during analysis
 data/raw/*.data
+data/raw/*.names
 
 # IPython
 profile_default/
@@ -159,6 +160,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# VSCode settings
+.vscode/
 
 # Spyder project settings
 .spyderproject
