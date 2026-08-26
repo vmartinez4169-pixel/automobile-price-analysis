@@ -45,3 +45,5 @@ This project was completed collaboratively by a team of four members.
 **Victor Martinez:** Exploratory data analysis, data cleaning and preprocessing, K-Means clustering, regression modeling, and contribution to the Tableau dashboard.
 
 **Josie Joseph:** Exploratory data analysis, data cleaning and preprocessing, visualizations
+
+**Jenelle:** Worked on exploring some of the main vehicle features related to price, helped clean and prepare the dataset for modeling. Also evaluated the model’s performance, contributed to the Tableau dashboard, and created the slide deck for our final presentation.
