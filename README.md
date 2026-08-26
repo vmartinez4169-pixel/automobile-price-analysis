@@ -43,3 +43,5 @@ The final project combines the team's analysis to identify important automobile 
 This project was completed collaboratively by a team of four members.
 
 **Victor Martinez:** Exploratory data analysis, data cleaning and preprocessing, K-Means clustering, regression modeling, and contribution to the Tableau dashboard.
+
+**Josie Joseph:** Exploratory data analysis, data cleaning and preprocessing, visualizations
