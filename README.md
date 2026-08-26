@@ -27,6 +27,13 @@ The project included:
 
 ![Automobile Price Analysis Dashboard](images/automobile_dashboard.png)
 
+## Key Results
+
+- Engine size, curb weight, and horsepower showed the strongest positive relationships with automobile price.
+- K-Means clustering identified three general vehicle segments based on performance, size, and fuel efficiency.
+- The Linear Regression model achieved an R² score of approximately **0.91**.
+- The model had a Mean Absolute Error (MAE) of approximately **$2,031**.
+
 ## Final Summary
 
 The final project combines the team's analysis to identify important automobile pricing patterns, compare modeling approaches, and communicate the results through an interactive Tableau dashboard.
