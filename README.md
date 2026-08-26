@@ -12,7 +12,7 @@ The project uses the UCI Automobile dataset, which contains vehicle specificatio
 
 ## Project Process
 
-The team completed:
+The project included:
 
 - Exploratory Data Analysis
 - Data cleaning and preprocessing
@@ -30,3 +30,9 @@ The team completed:
 ## Final Summary
 
 The final project combines the team's analysis to identify important automobile pricing patterns, compare modeling approaches, and communicate the results through an interactive Tableau dashboard.
+
+## Team Contributions
+
+This project was completed collaboratively by a team of four members.
+
+**Victor Martinez:** Exploratory data analysis, data cleaning and preprocessing, K-Means clustering, regression modeling, and contribution to the Tableau dashboard.
